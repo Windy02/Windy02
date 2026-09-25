@@ -1,1 +1,2 @@
-loop(Eat, Sleep, Code)
+while True:
+  print("Eat, Sleep, Develop, Repeat.")
